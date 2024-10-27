@@ -1,0 +1,112 @@
+[
+    {
+        "name": "General",
+        "description": "General discussions and announcements",
+        "subcategories": [
+            {
+                "name": "Announcements",
+                "description": "Updates, news, and important announcements"
+            },
+            {
+                "name": "Community Guidelines",
+                "description": "Guidelines for participating in the forum"
+            }
+        ]
+    },
+    {
+        "name": "Customer Support",
+        "description": "Get help and support for our product",
+        "subcategories": [
+            {
+                "name": "Technical Support",
+                "description": "Help with technical issues"
+            },
+            {
+                "name": "Product Feedback",
+                "description": "Share your feedback to improve our product"
+            },
+            {
+                "name": "FAQ & Tutorials",
+                "description": "Find answers and guides to help you get started"
+            },
+            {
+                "name": "Billing & Account Help",
+                "description": "Get help with your account and billing"
+            }
+        ]
+    },
+    {
+        "name": "Product Development",
+        "description": "Updates and discussions on the development cycles",
+        "subcategories": [
+            {
+                "name": "Shape Up Cycles",
+                "description": "Track and discuss development cycles",
+                "subcategories": [
+                    {
+                        "name": "Pitch Discussions",
+                        "description": "Collaborate on initial ideas and pitches"
+                    },
+                    {
+                        "name": "Current Cycle",
+                        "description": "Updates and feedback on the current cycle"
+                    },
+                    {
+                        "name": "Cool Down",
+                        "description": "Reflections and feedback after each cycle"
+                    }
+                ]
+            },
+            {
+                "name": "Roadmap & Feature Requests",
+                "description": "Upcoming features and community-driven feature requests",
+                "subcategories": [
+                    {
+                        "name": "Upcoming Features",
+                        "description": "Stay updated on what's next"
+                    },
+                    {
+                        "name": "Feature Voting",
+                        "description": "Vote on features to prioritize"
+                    }
+                ]
+            },
+            {
+                "name": "Beta Testing & Feedback",
+                "description": "Feedback from beta testers on new features"
+            }
+        ]
+    },
+    {
+        "name": "Customer Collaboration",
+        "description": "Collaborate with customers and share insights",
+        "subcategories": [
+            {
+                "name": "Feature Development",
+                "description": "Collaborate on new feature ideas"
+            },
+            {
+                "name": "User Stories & Use Cases",
+                "description": "Share workflows and specific use cases"
+            },
+            {
+                "name": "Community Showcase",
+                "description": "Showcase unique projects and customizations"
+            }
+        ]
+    },
+    {
+        "name": "Community",
+        "description": "General community discussion and shared tips",
+        "subcategories": [
+            {
+                "name": "General Discussion",
+                "description": "Broader discussions among community members"
+            },
+            {
+                "name": "Tips & Tricks",
+                "description": "Share useful tips and techniques"
+            }
+        ]
+    }
+]

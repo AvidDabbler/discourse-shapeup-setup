@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+      "category": "General",
+      "pinned_message": {
+        "title": "Welcome to Announcements",
+        "content": "This space is for updates on our latest releases, major product changes, and company news. For discussions, please visit the relevant threads or contact support for questions."
+      }
+    },
+    {
+      "category": "Customer Support",
+      "pinned_message": {
+        "title": "Welcome to Technical Support",
+        "content": "Get help with any technical issues you encounter with our product. Provide details to help our team assist you more effectively. For urgent issues, contact support directly."
+      }
+    },
+    {
+      "category": "Product Development",
+      "pinned_message": {
+        "title": "Welcome to Shape Up Cycles",
+        "content": "Follow our latest development cycles here, share feedback, and ask questions to help us improve the product. Join the conversation and stay updated on product development!"
+      }
+    },
+    {
+      "category": "Customer Collaboration",
+      "pinned_message": {
+        "title": "Collaborate with Us on New Features",
+        "content": "This space is for collaboration on feature ideas. Share your workflows, use cases, and needs. Let’s build something great together!"
+      }
+    },
+    {
+      "category": "Community",
+      "pinned_message": {
+        "title": "General Discussion",
+        "content": "Broader discussions among community members on topics not specific to other categories. Enjoy connecting with others here!"
+      }
+    },
+    {
+      "category": "Meta",
+      "pinned_message": {
+        "title": "Welcome to the Meta Category",
+        "content": "This section is dedicated to discussions, updates, and information specifically for the maintenance and administration of this Discourse server. Please use this space only for topics related to server maintenance."
+      }
+    }
+  ]
+}

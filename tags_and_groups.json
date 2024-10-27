@@ -1,0 +1,32 @@
+{
+  "tag_groups": [
+    {
+      "name": "Cycle Tags",
+      "tags": ["pitch", "current-cycle", "cool-down"],
+      "visibility_level": 0
+    },
+    {
+      "name": "Support Tags",
+      "tags": ["bug", "resolved", "account", "urgent"],
+      "visibility_level": 0
+    },
+    {
+      "name": "Feedback & Collaboration",
+      "tags": [
+        "ui-ux-feedback",
+        "performance",
+        "feature-feedback",
+        "showcase",
+        "tips",
+        "use-case"
+      ],
+      "visibility_level": 1
+    },
+    {
+      "name": "General & Onboarding",
+      "tags": ["new-user", "faq", "announcement"],
+      "visibility_level": 1
+    }
+  ]
+}
+

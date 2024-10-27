@@ -1,0 +1,42 @@
+{
+  "tag_groups": [
+    {
+      "group_name": "Cycle Tags",
+      "tags": ["cycle-1", "cycle-2", "pitch", "current-cycle", "cool-down"],
+      "permissions": {
+        "staff": "create",
+        "core_team": "apply"
+      }
+    },
+    {
+      "group_name": "Support Tags",
+      "tags": ["bug", "resolved", "account", "urgent"],
+      "permissions": {
+        "all_users": "apply"
+      }
+    },
+    {
+      "group_name": "Feedback & Collaboration",
+      "tags": [
+        "ui-ux-feedback",
+        "performance",
+        "feature-feedback",
+        "showcase",
+        "tips",
+        "use-case"
+      ],
+      "permissions": {
+        "all_users": "apply",
+        "core_team": "moderate"
+      }
+    },
+    {
+      "group_name": "General & Onboarding",
+      "tags": ["new-user", "faq", "announcement"],
+      "permissions": {
+        "all_users": "apply",
+        "core_team": "edit"
+      }
+    }
+  ]
+}
