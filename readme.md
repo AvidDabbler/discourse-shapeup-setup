@@ -28,3 +28,25 @@ List of components I use
 - Showcase Categories
 - Search Banner
 - Discourse Loading Slider
+
+## Quick start
+
+1. Copy the env
+
+```
+cp .env.example .env
+```
+
+2. Fill out your information
+
+```
+DISCOURSE_API_KEY=your_api_key
+DISCOURSE_API_USER=admin
+DISCOURSE_BASE_URL=https://your.discourse.url
+```
+
+3. Run the script
+
+```bash
+go run .
+```
