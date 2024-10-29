@@ -1,0 +1,254 @@
+[
+  {
+    "count": 0,
+    "description": null,
+    "id": "tag_name",
+    "name": "tag_name",
+    "pm_only": false,
+    "target_tag": null,
+    "text": "tag_name"
+  },
+  {
+    "count": 0,
+    "description": null,
+    "id": "cycle-1",
+    "name": "cycle-1",
+    "pm_only": false,
+    "target_tag": null,
+    "text": "cycle-1"
+  },
+  {
+    "count": 0,
+    "description": null,
+    "id": "cycle-2",
+    "name": "cycle-2",
+    "pm_only": false,
+    "target_tag": null,
+    "text": "cycle-2"
+  },
+  {
+    "count": 0,
+    "description": null,
+    "id": "pitch",
+    "name": "pitch",
+    "pm_only": false,
+    "target_tag": null,
+    "text": "pitch"
+  },
+  {
+    "count": 0,
+    "description": null,
+    "id": "current-cycle",
+    "name": "current-cycle",
+    "pm_only": false,
+    "target_tag": null,
+    "text": "current-cycle"
+  },
+  {
+    "count": 0,
+    "description": null,
+    "id": "cool-down",
+    "name": "cool-down",
+    "pm_only": false,
+    "target_tag": null,
+    "text": "cool-down"
+  },
+  {
+    "count": 0,
+    "description": null,
+    "id": "bug",
+    "name": "bug",
+    "pm_only": false,
+    "target_tag": null,
+    "text": "bug"
+  },
+  {
+    "count": 0,
+    "description": null,
+    "id": "resolved",
+    "name": "resolved",
+    "pm_only": false,
+    "target_tag": null,
+    "text": "resolved"
+  },
+  {
+    "count": 0,
+    "description": null,
+    "id": "account",
+    "name": "account",
+    "pm_only": false,
+    "target_tag": null,
+    "text": "account"
+  },
+  {
+    "count": 0,
+    "description": null,
+    "id": "urgent",
+    "name": "urgent",
+    "pm_only": false,
+    "target_tag": null,
+    "text": "urgent"
+  },
+  {
+    "count": 0,
+    "description": null,
+    "id": "ui-ux-feedback",
+    "name": "ui-ux-feedback",
+    "pm_only": false,
+    "target_tag": null,
+    "text": "ui-ux-feedback"
+  },
+  {
+    "count": 0,
+    "description": null,
+    "id": "performance",
+    "name": "performance",
+    "pm_only": false,
+    "target_tag": null,
+    "text": "performance"
+  },
+  {
+    "count": 0,
+    "description": null,
+    "id": "feature-feedback",
+    "name": "feature-feedback",
+    "pm_only": false,
+    "target_tag": null,
+    "text": "feature-feedback"
+  },
+  {
+    "count": 0,
+    "description": null,
+    "id": "showcase",
+    "name": "showcase",
+    "pm_only": false,
+    "target_tag": null,
+    "text": "showcase"
+  },
+  {
+    "count": 0,
+    "description": null,
+    "id": "tips",
+    "name": "tips",
+    "pm_only": false,
+    "target_tag": null,
+    "text": "tips"
+  },
+  {
+    "count": 0,
+    "description": null,
+    "id": "use-case",
+    "name": "use-case",
+    "pm_only": false,
+    "target_tag": null,
+    "text": "use-case"
+  },
+  {
+    "count": 0,
+    "description": null,
+    "id": "new-user",
+    "name": "new-user",
+    "pm_only": false,
+    "target_tag": null,
+    "text": "new-user"
+  },
+  {
+    "count": 0,
+    "description": null,
+    "id": "faq",
+    "name": "faq",
+    "pm_only": false,
+    "target_tag": null,
+    "text": "faq"
+  },
+  {
+    "count": 0,
+    "description": null,
+    "id": "announcement",
+    "name": "announcement",
+    "pm_only": false,
+    "target_tag": null,
+    "text": "announcement"
+  },
+  {
+    "count": 0,
+    "description": null,
+    "id": "cycle",
+    "name": "cycle",
+    "pm_only": false,
+    "target_tag": null,
+    "text": "cycle"
+  },
+  {
+    "count": 0,
+    "description": null,
+    "id": "complete",
+    "name": "complete",
+    "pm_only": false,
+    "target_tag": null,
+    "text": "complete"
+  },
+  {
+    "count": 0,
+    "description": null,
+    "id": "failed",
+    "name": "failed",
+    "pm_only": false,
+    "target_tag": null,
+    "text": "failed"
+  },
+  {
+    "count": 0,
+    "description": null,
+    "id": "learned",
+    "name": "learned",
+    "pm_only": false,
+    "target_tag": null,
+    "text": "learned"
+  },
+  {
+    "count": 2,
+    "description": null,
+    "id": "in-progress",
+    "name": "in-progress",
+    "pm_only": false,
+    "target_tag": null,
+    "text": "in-progress"
+  },
+  {
+    "count": 0,
+    "description": null,
+    "id": "blocked",
+    "name": "blocked",
+    "pm_only": false,
+    "target_tag": null,
+    "text": "blocked"
+  },
+  {
+    "count": 0,
+    "description": null,
+    "id": "testing",
+    "name": "testing",
+    "pm_only": false,
+    "target_tag": null,
+    "text": "testing"
+  },
+  {
+    "count": 4,
+    "description": null,
+    "id": "ready",
+    "name": "ready",
+    "pm_only": false,
+    "target_tag": null,
+    "text": "ready"
+  },
+  {
+    "count": 1,
+    "description": null,
+    "id": "finished",
+    "name": "finished",
+    "pm_only": false,
+    "target_tag": null,
+    "text": "finished"
+  }
+]

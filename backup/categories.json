@@ -1,0 +1,74 @@
+[
+  {
+    "id": 34,
+    "name": "Current Cycle",
+    "description": "This is the first cycle.  It will be the testing ground for everything else.",
+    "slug": "current",
+    "parent_category_id": null,
+    "position": 1
+  },
+  {
+    "id": 7,
+    "name": "Shaping",
+    "description": "This is the place where we have all of our current product development that are not associated with a larger project.",
+    "slug": "shaping",
+    "parent_category_id": null,
+    "position": 2
+  },
+  {
+    "id": 12,
+    "name": "Customer Support",
+    "description": "",
+    "slug": "customer-support",
+    "parent_category_id": null,
+    "position": 3
+  },
+  {
+    "id": 3,
+    "name": "Staff",
+    "description": "\u003cp\u003ePrivate category for staff discussions. Topics are only visible to admins and moderators.\u003c/p\u003e",
+    "slug": "staff",
+    "parent_category_id": null,
+    "position": 8
+  },
+  {
+    "id": 8,
+    "name": "Meta",
+    "description": "This space is for the maintenance and updates of this space. Since this is a place that TransitChat is maintaining to support the communication of its staff and customers about work and upcoming features. It is important for us to maintain this space as a place we can call our digital HQ.",
+    "slug": "meta",
+    "parent_category_id": null,
+    "position": 10
+  },
+  {
+    "id": 6,
+    "name": "Admin",
+    "description": "",
+    "slug": "admin",
+    "parent_category_id": null,
+    "position": 12
+  },
+  {
+    "id": 17,
+    "name": "Customer Collaboration",
+    "description": "",
+    "slug": "customer-collaboration",
+    "parent_category_id": null,
+    "position": 13
+  },
+  {
+    "id": 21,
+    "name": "Community",
+    "description": "",
+    "slug": "community",
+    "parent_category_id": null,
+    "position": 17
+  },
+  {
+    "id": 37,
+    "name": "Past Cycles",
+    "description": "",
+    "slug": "past-cycles",
+    "parent_category_id": null,
+    "position": 23
+  }
+]
